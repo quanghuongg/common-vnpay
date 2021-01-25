@@ -1,0 +1,4 @@
+rootProject.name = 'common-vnpay'
+include 'common-util'
+include 'common-entity'
+
